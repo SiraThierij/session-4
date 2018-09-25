@@ -2,11 +2,11 @@
 	box-sizing: border-box;
 }
 
-html, body {
-	margin: 0;
+html, body {text-align:center;
+	margin: 0; font-family:"Roboto Condensed";
 }
 
-header, footer {
+header, footer {color:white; background-color:purple; max-width: 660px; max-height: 600px; margin: auto;
 
 }
 
@@ -18,7 +18,7 @@ header .subtitle {
 
 }
 
-h1 {
+h1 {font-family: "Source Sans Pro", sans-serif; font-family:"Roboto Condensed";
 
 }
 
@@ -29,9 +29,15 @@ ul {
 
 ul li {
 	width: 50%;
+	list-style-type: none;
 }
 
 main {
+	max-width:660px;
+	margin:auto;
+	border-style:solid;
+	border-width:3px;
+	border-color:purple;
 
 }
 
@@ -44,7 +50,7 @@ h2 {
 }
 
 h3 {
-
+	color: purple; font-family: "Source Sans Pro", sans-serif; font-size: 16px;
 }
 
 p {
