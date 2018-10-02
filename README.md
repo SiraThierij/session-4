@@ -90,7 +90,7 @@ Pour importer des polices particulières, suivre les instructions sur le site [G
 - Taille de la police : `font-size: 14px, 2em;`
 - Gras : `font-weight: 400, 600;`
 - Italique : `font-style: italic, oblique, normal;`
-- Soulignement : `font-decoration: underline, overline, line-through;`
+- Soulignement : `text-decoration: underline, overline, line-through;`
 - Petites capitales : `font-variant: small-caps;`
 - Capitales : `text-transform: uppercase, lowercase, capitalize;`
 - Alignement: `text-align: left, right, center;`
